@@ -958,13 +958,10 @@
     cursor: default;
 }
 /* Mobile tablet menu toggle */
-.mt-menu{
-    display: none;
-}
 .mt-menu-toggle{
     display: none;
 }
-.mt-menu-toggle-overlay{
+.mt-menu-bar{
     display: none;
 }
 
